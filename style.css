@@ -1,0 +1,119 @@
+h1 {
+    color: #E7E7E7;
+    font-size: 22px;
+    font-weight: 100;
+}
+
+h2 {
+    color: #B68968;
+    font-size: 17px;
+    font-weight: 100;
+}
+
+h3 {
+    color: #E7E7E7;
+    font-size: 16px;
+    font-weight: 100;
+}
+
+h1, h2, h3 {
+    font-family: 'Suez One', sans-serif;
+}
+
+a {
+    color: #979797;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #44a6bb;
+    text-decoration: none;
+}
+
+body {
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 100;
+    color: #c2c2c2;
+    font-size: 13px;
+    line-height: 1.6em;
+    background-size: cover;
+    background-image: url(images/background_1.jpeg);
+   /* background-color:black;
+    background-color:#556;
+    background: linear-gradient(#ffffff 50%, rgba(255,255,255,0) 0) 0 0,
+    radial-gradient(circle closest-side, #FFFFFF 53%, rgba(255,255,255,0) 0) 0 0,
+    radial-gradient(circle closest-side, #FFFFFF 50%, rgba(255,255,255,0) 0) 55px 0 #48B;
+    background-size:110px 200px;
+    background-repeat:repeat-x;*/
+}
+
+#movies img{
+  width: 100px;
+}
+
+#movies td {
+  padding: 10px;
+}
+
+.card {
+background-color: rgba(53, 52, 51, 0.7);
+margin: 20px;
+padding: 15px;
+border-radius: 4px;
+border: 1px solid rgba(100, 100, 100, 0.1)
+}
+
+table {
+    font-weight: 100;
+    font-size: 13px;
+    line-height: 1.6em;
+}
+
+.img-circle {
+border-radius: 50%
+}
+
+
+.text-center {
+  text-align: center;
+}
+
+
+.container {
+  width: 600px;
+  margin: 0 auto;
+}
+
+.list-inline {
+  padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+#pied-piper{
+  color: grey;
+}
+
+#pied-piper i {
+  font-size: 40px;
+  margin-left: 5px
+}
+
+.list-inline li i {
+    font-size: 22px;
+    margin-right: 5px
+}
+
+.btn-red {
+    background-color: #DD5555;
+    color: white;
+    font-weight: 500;
+    padding: 5px;
+    border-radius: 4px;
+    font-size: 9px;
+}
+/* Here goes your CSS */
+/* Here goes your CSS */
